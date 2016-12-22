@@ -1,4 +1,8 @@
-
+/*
+ * This is a simple script to control the esc of a brushless motor.
+ * 
+ */
+ 
 #include <Servo.h>
  
 Servo esc;
